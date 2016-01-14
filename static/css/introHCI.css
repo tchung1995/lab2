@@ -32,3 +32,19 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+.project{
+     background-color:gray;
+     margin-left: 20px;
+}
+
+img .thumbnail{
+     width: 50px;
+     height: 50px;
+     border: 1px solid #434343;
+}
+
+.contact-info {
+     font-size: 10pt;
+     color:#cccccc;
+}
